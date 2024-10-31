@@ -1,1 +1,1 @@
-Hosted at [anaveragehost.com](https://nextjs.org)
+Hosted at [anaveragehost.com](https://anaveragehost.com)
