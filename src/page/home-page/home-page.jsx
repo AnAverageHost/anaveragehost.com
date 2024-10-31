@@ -1,7 +1,7 @@
 import SocialButton from "@/component/social-button/social-button";
 import React from "react";
 
-const IMAGE_URL = "https://i.imgur.com/20qXuyk.jpeg";
+const IMAGE_URL = "https://imgur.com/r4cyb43.jpeg";
 
 function HomePage(){
     const styles = {};
